@@ -1,0 +1,8 @@
+: part-whole
+leaf tree petal flower
+city state state country
+nigeria africa france europe
+: object-function
+eye see ear hear
+clock time thermometer temperature
+saw cut hammer pound
