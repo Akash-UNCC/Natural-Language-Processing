@@ -13,8 +13,6 @@ english_test =  udhr.words('English-Latin1')[0:1000]
 french_test =  udhr.words('French_Francais-Latin1')[0:1000]
 italian_test =  udhr.words('Italian_Italiano-Latin1')[0:1000]
 spanish_test =  udhr.words('Spanish_Espanol-Latin1')[0:1000]
-
-print("::::::::::::::::::: :::::::::::::::::::::::::::starts ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::")
 print("::::::::::::::::::: :::::::::::::::::::::::::::Solutions to prpblem 1 ::::::::::::::::::::::::::::::::::::::::::")
 # Preprocessing the  English Corpus
 import string
